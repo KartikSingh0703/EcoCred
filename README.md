@@ -1,1 +1,1 @@
-# EcoCred
+# Carbon Credit Trading Platform 
